@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM-vs-MVP</string>
+    <string name="login">login</string>
+</resources>
